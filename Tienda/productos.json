@@ -1,0 +1,122 @@
+[
+  {
+    "precio": 3500,
+    "id": 1,
+    "stock": 9,
+    "nombre": "HP EliteBook 840"
+  },
+  {
+    "precio": 2800,
+    "id": 2,
+    "stock": 8,
+    "nombre": "HP ProBook 450"
+  },
+  {
+    "precio": 2500,
+    "id": 3,
+    "stock": 12,
+    "nombre": "Dell Inspiron 15"
+  },
+  {
+    "precio": 4200,
+    "id": 4,
+    "stock": 6,
+    "nombre": "Dell XPS 13"
+  },
+  {
+    "precio": 3100,
+    "id": 5,
+    "stock": 9,
+    "nombre": "Lenovo ThinkPad E15"
+  },
+  {
+    "precio": 1800,
+    "id": 6,
+    "stock": 15,
+    "nombre": "Lenovo IdeaPad 3"
+  },
+  {
+    "precio": 5200,
+    "id": 7,
+    "stock": 5,
+    "nombre": "Apple MacBook Air M2"
+  },
+  {
+    "precio": 7800,
+    "id": 8,
+    "stock": 3,
+    "nombre": "Apple MacBook Pro 14"
+  },
+  {
+    "precio": 2100,
+    "id": 9,
+    "stock": 11,
+    "nombre": "Asus VivoBook 15"
+  },
+  {
+    "precio": 3400,
+    "id": 10,
+    "stock": 7,
+    "nombre": "Asus ZenBook 14"
+  },
+  {
+    "precio": 1950,
+    "id": 11,
+    "stock": 14,
+    "nombre": "Acer Aspire 5"
+  },
+  {
+    "precio": 2700,
+    "id": 12,
+    "stock": 8,
+    "nombre": "Acer Swift 3"
+  },
+  {
+    "precio": 4900,
+    "id": 13,
+    "stock": 4,
+    "nombre": "Microsoft Surface Laptop 5"
+  },
+  {
+    "precio": 2300,
+    "id": 14,
+    "stock": 10,
+    "nombre": "MSI Modern 14"
+  },
+  {
+    "precio": 2000,
+    "id": 15,
+    "stock": 9,
+    "nombre": "Huawei MateBook D15"
+  },
+  {
+    "precio": 3600,
+    "id": 16,
+    "stock": 6,
+    "nombre": "Samsung Galaxy Book3"
+  },
+  {
+    "precio": 8500,
+    "id": 17,
+    "stock": 2,
+    "nombre": "Razer Blade 15"
+  },
+  {
+    "precio": 3200,
+    "id": 18,
+    "stock": 7,
+    "nombre": "HP Victus 16"
+  },
+  {
+    "precio": 4100,
+    "id": 19,
+    "stock": 0,
+    "nombre": "Lenovo Legion 5"
+  },
+  {
+    "precio": 3750,
+    "id": 20,
+    "stock": 7,
+    "nombre": "Dell Latitude 5540"
+  }
+]
